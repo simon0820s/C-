@@ -1,0 +1,14 @@
+/home/simon/programacion/c#/helloWorld/bin/Debug/net8.0/helloWorld
+/home/simon/programacion/c#/helloWorld/bin/Debug/net8.0/helloWorld.deps.json
+/home/simon/programacion/c#/helloWorld/bin/Debug/net8.0/helloWorld.runtimeconfig.json
+/home/simon/programacion/c#/helloWorld/bin/Debug/net8.0/helloWorld.dll
+/home/simon/programacion/c#/helloWorld/bin/Debug/net8.0/helloWorld.pdb
+/home/simon/programacion/c#/helloWorld/obj/Debug/net8.0/helloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/home/simon/programacion/c#/helloWorld/obj/Debug/net8.0/helloWorld.AssemblyInfoInputs.cache
+/home/simon/programacion/c#/helloWorld/obj/Debug/net8.0/helloWorld.AssemblyInfo.cs
+/home/simon/programacion/c#/helloWorld/obj/Debug/net8.0/helloWorld.csproj.CoreCompileInputs.cache
+/home/simon/programacion/c#/helloWorld/obj/Debug/net8.0/helloWorld.dll
+/home/simon/programacion/c#/helloWorld/obj/Debug/net8.0/refint/helloWorld.dll
+/home/simon/programacion/c#/helloWorld/obj/Debug/net8.0/helloWorld.pdb
+/home/simon/programacion/c#/helloWorld/obj/Debug/net8.0/helloWorld.genruntimeconfig.cache
+/home/simon/programacion/c#/helloWorld/obj/Debug/net8.0/ref/helloWorld.dll
